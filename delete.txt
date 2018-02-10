@@ -1,2 +1,0 @@
-this is delete commend
-git is a good software
